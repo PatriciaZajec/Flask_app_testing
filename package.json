@@ -1,0 +1,15 @@
+{
+  "name": "Flask_app_testing",
+  "version": "1.0.0",
+  "description": "Tests for basic functionalities of the Flask app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Patricia Zajec",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.3.1"
+  }
+}
